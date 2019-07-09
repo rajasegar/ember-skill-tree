@@ -1,0 +1,66 @@
+@startmindmap
+title Ember Skill Tree (2019)
+* Ember
+** File Layout
+*** Classic
+*** Pods
+*** MU
+*** Octane
+
+** Templating
+*** Handlebars
+*** Helpers
+*** Modifiers
+
+** Structures
+*** EmberObject
+*** Natic Classes
+
+** Decorators
+*** Using and Writing
+
+** Routing
+*** Routes
+*** Router
+*** Controllers
+
+** Components
+*** Ember
+*** Sparkles
+*** Glimmer
+
+** Component Patterns
+
+left side
+
+** State Management
+*** Tracked
+*** Computed
+
+** Services
+** Testing Technologies
+*** QUnit
+*** Mocha
+*** Mirage
+*** Sinon
+
+** Documentation
+*** How?
+*** UML
+*** Workflow
+
+** Concepts of Ember ecosystem
+*** Apps
+*** Addons
+*** Engines
+*** Node Packages
+
+** Addons
+** Engines
+** Low-level Ember
+*** ember-cli
+*** broccoli
+*** babel
+*** glimmer
+
+@endmindmap
