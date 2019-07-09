@@ -1,0 +1,91 @@
+@startmindmap
+* Ember
+
+** The Object Model
+*** Objects
+*** Classes and Instances
+*** Reopening Classes and Instances
+*** Computed Properties
+*** Computed Properties and Aggregate Data
+*** Observers
+*** Bindings
+*** Enumerables
+
+** Templating
+*** Basics
+*** Built-in Helpers
+*** Conditionals
+*** Binding Element Attributes
+*** Links
+*** Actions
+*** Input Helpers
+*** Development Helpers
+*** Writing Helpers
+
+** Components
+*** Component Lifecycle
+*** Props
+*** Wrapping Content
+*** Customizing a Component's Element
+*** Using Block Params
+*** Handling Events
+*** Actions
+
+** Controllers
+** Routing
+*** Routes
+*** Route's Model
+*** Rendering a Template
+*** Redirecting
+*** Preventing and Retrying Transitions
+*** Loading / Error Substates
+*** Query Parameters
+*** Asynchronous Routing
+
+
+left side
+
+** Ember Data
+*** Models
+*** Records
+*** CRUD
+*** Relationships
+*** Store
+*** Metadata
+*** Adapters
+*** Serializers
+
+** Addons and Dependencies
+
+** Testing
+*** Basics
+*** Application Tests
+*** Components
+*** Helpers
+*** Controllers
+*** Routes
+*** Models
+
+** Configuration
+*** App
+*** Ember CLI
+*** Handling Deprecations
+*** Disabling Prototype Extensions
+*** URL Type
+*** Embedding Apps
+*** Feature Flags
+*** Optional Features
+*** Build Targets
+*** Debugging
+
+** Application Concerns
+*** Applications
+*** Instances
+*** Dependency Injection
+*** Initializers
+*** Services
+*** Run Loop
+*** Ember Engines
+
+
+@endmindmap
