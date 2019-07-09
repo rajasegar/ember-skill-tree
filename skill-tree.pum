@@ -20,14 +20,19 @@ title Ember Skill Tree (2019)
 *** Using and Writing
 
 ** Routing
-*** Routes
-*** Router
+*** Application Routes
+*** Router Service
+*** Route
 *** Controllers
 
 ** Components
 *** Ember
-*** Sparkles
 *** Glimmer
+*** Template Only
+*** Custom Component manager
+**** Sparkles
+**** Hooked
+**** Functional
 
 ** Component Patterns
 
@@ -36,6 +41,7 @@ left side
 ** State Management
 *** Tracked
 *** Computed
+*** Observed
 
 ** Services
 ** Testing Technologies
