@@ -1,0 +1,21 @@
+@startmindmap
+title Ember Pre-requisite Knowledge
+* Ember
+** HTML
+***_ Mozilla Developer Network
+** CSS
+***_ Mozilla Developer Network
+** Javascript
+***_ Mozilla Developer Network
+
+left side 
+** Promises
+***_ Mozilla Developer Network
+** ES2015 modules
+*** ember-cli
+*** Javascript Modules
+
+** ES2015 syntax
+***_ Babel
+***_ Understanding ECMAScript 6
+@endmindmap
