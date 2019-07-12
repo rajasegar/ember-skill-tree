@@ -1,7 +1,7 @@
 # ember-skill-tree
 A Skill Tree for Learning Ember.js in 2019
 
-![Ember Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/Ember Developer in 2019.png)
+![Ember Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/ember-developer-roadmap.png)
 
 ## Other Skill Trees
 - [Ember-Guides Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/ember-guides.png)
