@@ -3,11 +3,15 @@ A Skill Tree for Learning Ember.js in 2019
 
 ![Ember Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/ember-developer-roadmap.png)
 
+Skill tree diagram generated with [Draw.io](http://draw.io)
+
 ## Other Skill Trees
 - [Ember-Guides Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/ember-guides.png)
 - [Ember Pre-requisites Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/pre-req.png)
 
-Skill tree diagram generated with [Spacemacs](http://spacemacs.org) and [PlantUML](http://plantuml.com/).
+
+## Contributing Guidelines
+Please refer to [Contributing](https://github.com/rajasegar/ember-skill-tree/raw/master/CONTRIBUTING.md)
 
 ## Other Roadmaps
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
