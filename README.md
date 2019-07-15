@@ -6,6 +6,7 @@ A Skill Tree for Learning Ember.js in 2019
 Skill tree diagram generated with [Draw.io](http://draw.io)
 
 ## Other Skill Trees
+- [Ember Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/skill-tree.png)
 - [Ember-Guides Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/ember-guides.png)
 - [Ember Pre-requisites Skill Tree](https://github.com/rajasegar/ember-skill-tree/raw/master/pre-req.png)
 
