@@ -1,73 +1,79 @@
 @startmindmap
+skinparam shadowing false
+skinparam defaultFontName Helvetica
+skinparam activityBorderColor #Black
+skinparam linkColor #Black
 title Ember Skill Tree (2019)
+
 * Ember
-** File Layout
-*** Classic
-*** Pods
-*** MU
-*** Octane
+**[#Aqua] File Layout
+***[#Aquamarine] Classic
+***[#Aquamarine] Pods
+***[#Aquamarine] MU
+***[#Aquamarine] Octane
 
-** Templating
-*** Handlebars
-*** Helpers
-*** Modifiers
+**[#GoldenRod] Templating
+***[#Gold] Handlebars
+***[#Gold] Helpers
+***[#Gold] Modifiers
 
-** Structures
-*** EmberObject
-*** Native Classes
+**[#LawnGreen] Structures
+***[#GreenYellow] EmberObject
+***[#GreenYellow] Native Classes
 
-** Decorators
-*** Using and Writing
+**[#LightCyan] Decorators
+***[#LightBlue] Using and Writing
 
-** Routing
-*** Application Routes
-*** Router Service
-*** Route
-*** Controllers
-*** Query Parameters
+**[#Lime] Routing
+***[#LightGreen] Application Routes
+***[#LightGreen] Router Service
+***[#LightGreen] Route
+***[#LightGreen] Controllers
+***[#LightGreen] Query Parameters
 
-** Components
-*** Ember
-*** Glimmer
-*** Template Only
-*** Custom Component manager
-**** Sparkles
-**** Hooked
-**** Functional
+**[#MediumOrchid] Components
+***[#Magenta] Ember
+***[#Magenta] Glimmer
+***[#Magenta] Template Only
+***[#Magenta]  Custom Component manager
+****[#Magenta] Sparkles
+****[#Magenta] Hooked
+****[#Magenta] Functional
 
 ** Component Patterns
 
 left side
 
-** State Management
-*** Tracked
-*** Computed
-*** Observed
+**[#0ff] State Management
+***[#00e6e6] Tracked
+***[#00e6e6] Computed
+***[#00e6e6] Observed
 
 ** Services
-** Testing Technologies
-*** QUnit
-*** Mocha
-*** Mirage
-*** Sinon
+**[#5f9ea0] Testing
+***[#8fbbbc] QUnit
+***[#8fbbbc] Mocha
+***[#8fbbbc] Mirage
+***[#8fbbbc] Sinon
 
 ** Documentation
 *** How?
 *** UML
 *** Workflow
 
-** Concepts of Ember ecosystem
-*** Apps
-*** Addons
-*** Engines
-*** Node Packages
+**[#cb3434] Ecosystem
+***[#e08585] Apps
+***[#e08585] Addons
+***[#e08585] Engines
+***[#e08585] Node Packages
 
 ** Addons
 ** Engines
-** Low-level Ember
-*** ember-cli
-*** broccoli
-*** babel
-*** glimmer
+
+**[#df7020] Low-level Ember
+***[#e99b63] ember-cli
+***[#e99b63] broccoli
+***[#e99b63] babel
+***[#e99b63] glimmer
 
 @endmindmap
