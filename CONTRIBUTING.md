@@ -1,19 +1,34 @@
-# How to edit roadmap?
-1. Open draw.io
-2. Close opened small window
-3. File -> Import from -> Github
-4. Authorization from Github
-5. Choose forked repository (ember-skill-tree) and click src -> ember-developer-roadmap.xml
+# How to edit skill tree?
+1. Open `skill-tree.pum`
+2. Add relevant items under the appropriate headings
 
-# Add links to roadmap
-1. Double click to edit text
-2. Click to HTML button </> at the top of the page
-3. Write HTML: <a href="#"....
+# Run PlantUML from the command line
+Use PlantUML's command line syntax to include it in your own scripts or documentation tools:
+
+First, create a text file with PlantUML commands, like this example
+```plantuml
+@startmindmap
+...
+**[#Aqua] File Layout
+***[#Aquamarine] Classic
+***[#Aquamarine] Pods
+***[#Aquamarine] MU
+***[#Aquamarine] Octane
+...
+@endmindmap
+```
+
+Then, run (or have your software call) PlantUML, using `skill-tree.pum` as input. The output is an image, which either appears in the other software, or is written to an image file on disk.
+
+For example:
+
+```sh
+java -jar plantuml.jar skill-tree.pum
+```
+
+This outputs your sequence diagram to a file called `skill-tree.png`.
+
+# More Info
+- http://plantuml.com/mindmap-diagram
 
 
-# Export Roadmap to PDF file
-1. File -> Export As -> Advanced...
-2. Change these values:
- - Format: PDF
- - Width: 1200
-3. Click Export Button
